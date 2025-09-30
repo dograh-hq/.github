@@ -29,3 +29,7 @@ Dograh helps you build your own voice agents with an easy drag-and-drop workflow
   <br>
   <em>Click to watch a 2-minute demo of Dograh AI in action</em>
 </div>
+
+## Learn more
+
+See the [dograh-hq/dograh readme](https://github.com/dograh-hq/dograh) for more details. 

@@ -1,7 +1,6 @@
-# Dograh AI
+# Dograh AI - The Open-Source Alternative to Vapi
 
 <h3 align="center">⭐ <strong>If you find value in this project, PLEASE STAR IT to help others discover our FOSS platform!</strong></h3>
-
 
 <p align="center">
   <a href="LICENSE">
@@ -15,10 +14,28 @@
   </a>
 </p>
 
-Dograh helps you build your own voice agents with an easy drag-and-drop workflow builder. It's the fastest way to build voice AI agents - from zero to working bot in under 2 minutes (our hard SLA standards).
+**Build voice AI agents with full control and transparency**
 
-- **100% open source**, self-hostable platform with built-in AI testing personas and flexible LLM/TTS/STT integration
-- **Maintained by YC alumni and exit founders**, ensuring the future of voice AI stays open, not monopolized
+Dograh is the **open-source alternative to Vapi** - helping you build voice AI agents with an easy drag-and-drop workflow builder. Unlike proprietary solutions, Dograh gives you:
+
+- **🔓 100% Open Source** - No vendor lock-in, full code transparency
+- **🏠 Self-Hostable** - Deploy anywhere, own your infrastructure
+- **⚡ 2-Minute Setup** - From zero to working voice bot in under 2 minutes
+- **🔧 Complete Control** - Every line of code is open and customizable
+- **🤝 Community-Driven** - Maintained by Exit Founders/YC alumni committed to keeping voice AI open
+
+**Why choose Dograh over Vapi?**
+- No black box algorithms - see exactly how your voice agents work
+- No monthly SaaS fees - deploy once, use forever
+- No data lock-in - your conversations and models stay with you
+- No vendor dependency - modify and extend as needed
+
+Call-to-Action Section:
+## Get Started in 2 Minutes
+
+```bash
+curl -o docker-compose.yaml https://raw.githubusercontent.com/dograh-hq/dograh/main/docker-compose.yaml && REGISTRY=ghcr.io/dograh-hq ENABLE_TELEMETRY=true docker compose up --pull always
+```
 
 ## 🎥 Demo Video
 
@@ -32,4 +49,4 @@ Dograh helps you build your own voice agents with an easy drag-and-drop workflow
 
 ## Learn more
 
-See the [dograh-hq/dograh readme](https://github.com/dograh-hq/dograh) for more details. 
+See the [dograh-hq/dograh readme](https://github.com/dograh-hq/dograh) for more details.
